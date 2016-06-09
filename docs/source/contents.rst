@@ -2,63 +2,18 @@
 Project Jupyter and IPython
 ===========================
 
-**Table of Contents**
-
-.. _user-docs:
-
-.. toctree::
-   :maxdepth: 2
-
-   content-quickstart
-
-.. _tech-overview:
-
 .. toctree::
    :maxdepth: 1
 
+   index
+   content-quickstart
    architecture/content-architecture.rst
-
-.. _about-docs:
-
-.. toctree::
-   :maxdepth: 2
-
    use-cases/content-user.rst
-
-.. _about-ipython:
-
-.. toctree::
-   :maxdepth: 2
-
    ipython/content-ipython.rst
-
-.. _jupyter-subprojects:
-
-.. toctree::
-   :maxdepth: 2
-
    projects/content-projects
-
-.. toctree::
-   :maxdepth: 2
-
    community/content-community
-
-.. _dev-docs:
-
-.. toctree::
-   :maxdepth: 2
-
    contributor/content-contributor
-
-.. toctree::
-   :maxdepth: 2
-
    releases/content-releases
-
-.. toctree::
-   :maxdepth: 2
-
    reference/content-reference
 
 

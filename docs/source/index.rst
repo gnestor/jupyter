@@ -1,8 +1,31 @@
+===========================
+Project Jupyter and IPython
+===========================
+
+.. toctree::
+   :hidden:
+
+   content-quickstart
+   architecture/content-architecture.rst
+   use-cases/content-user.rst
+   ipython/content-ipython.rst
+   projects/content-projects
+   community/content-community
+   contributor/content-contributor
+   releases/content-releases
+   reference/content-reference
+
+
+
+`Jupyter Notebook Quickstart <content-quickstart>`_
+   Try the notebook
+   and can even consist of multiple paragraphs
+
+next term
+   Description.
+
+
 .. raw:: html
-
-  <h1>Welcome</h1>
-
-  <h2 style="margin-bottom: 10 px">Start Here</h2>
 
   <div style='column-count: 2; margin-left: 30px;'>
       <p class="biglink"><a class="biglink" href="{{ pathto("content-quickstart") }}">Jupyter Notebook Quickstart</a><br/>
@@ -28,7 +51,10 @@
          <span class="linkdescr">Full table of contents</span></p>
   </div>
 
-  <h2 style="margin-bottom: 10 px">Project Documentation</h2>
+Project Documentation
+---------------------
+
+.. raw:: html
 
   <div style='column-count: 2; margin-left: 30px;'>
       <p>Jupyter User Interfaces</p>
@@ -76,4 +102,28 @@
          <a href="http://jupyter.org/jupyter-js-ui/">jupyter-js-ui</a><br/>
          <a href="http://jupyter.org/jupyter-js-utils/">jupyter-js-utils</a></p>
     </div>
+
+
+Indices and tables
+==================
+
+- :ref:`genindex`
+- :ref:`glossary`
+- :ref:`search`
+
+
+**Resources:**
+
+.. csv-table::
+   :header: "Site", "Description"
+   :widths: 18, 35
+
+   `Jupyter website <https://jupyter.org>`_, Keep up to date on Jupyter
+   `IPython website <https://ipython.org>`_, Learn more about IPython
+   `jupyter/help repo <https://github.com/jupyter/help>`_, Start here for help and support questions
+   `Jupyter mailing list <https://groups.google.com/forum/#!forum/jupyter>`_, General discussion of Jupyter's use
+   `Jupyter in Education group <https://groups.google.com/forum/#!forum/jupyter-education>`_, Discussion of Jupyter's use in education
+   `NumFocus <http://www.numfocus.org>`_, "Promotes world-class, innovative, open source scientific software"
+   `Donate to Project Jupyter <https://jupyter.org/donate.html>`_, Please contribute to open science collaboration and sustainability
+
 
